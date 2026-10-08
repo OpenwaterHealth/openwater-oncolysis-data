@@ -1,4 +1,9 @@
 # Openwater Preclinical Oncolysis Data
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 This repository contains _in vitro_ and _in vivo_ data from experiments with the system. The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting. 
 
 For additional details on the preclinical oncolysis system and its applications, refer to the [wiki](https://wiki.openwater.health/index.php/Oncolysis).
@@ -17,6 +22,3 @@ This project is licensed under the GNU Affero General Public License v3.0. See [
 
 # Contributing 
 See [Contributor Guidelines](Contributor%20Guidelines) for details. [Report an Issue](https://goo.gl/forms/chVYUnA4bP70WGsL2)
-
-# Investigational Use Only
-CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. Systems described here have *not* been evaluated by the FDA and are not designed for the treatment or diagnosis of any disease. 
